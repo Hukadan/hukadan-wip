@@ -1,0 +1,5 @@
+Telethon session storage implementation backed by SQLAlchemy.
+
+This session implementation can store multiple Sessions in the same
+database, but to do this, each session instance needs to have access
+to the same models and database session.

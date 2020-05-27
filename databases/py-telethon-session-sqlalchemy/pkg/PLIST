@@ -1,0 +1,23 @@
+@comment $OpenBSD: PLIST,v$
+lib/python${MODPY_VERSION}/site-packages/alchemysession/
+lib/python${MODPY_VERSION}/site-packages/alchemysession/__init__.py
+${MODPY_COMMENT}lib/python${MODPY_VERSION}/site-packages/alchemysession/${MODPY_PYCACHE}/
+lib/python${MODPY_VERSION}/site-packages/alchemysession/${MODPY_PYCACHE}__init__.${MODPY_PYC_MAGIC_TAG}pyc
+lib/python${MODPY_VERSION}/site-packages/alchemysession/${MODPY_PYCACHE}core.${MODPY_PYC_MAGIC_TAG}pyc
+lib/python${MODPY_VERSION}/site-packages/alchemysession/${MODPY_PYCACHE}core_mysql.${MODPY_PYC_MAGIC_TAG}pyc
+lib/python${MODPY_VERSION}/site-packages/alchemysession/${MODPY_PYCACHE}core_postgres.${MODPY_PYC_MAGIC_TAG}pyc
+lib/python${MODPY_VERSION}/site-packages/alchemysession/${MODPY_PYCACHE}core_sqlite.${MODPY_PYC_MAGIC_TAG}pyc
+lib/python${MODPY_VERSION}/site-packages/alchemysession/${MODPY_PYCACHE}orm.${MODPY_PYC_MAGIC_TAG}pyc
+lib/python${MODPY_VERSION}/site-packages/alchemysession/${MODPY_PYCACHE}sqlalchemy.${MODPY_PYC_MAGIC_TAG}pyc
+lib/python${MODPY_VERSION}/site-packages/alchemysession/core.py
+lib/python${MODPY_VERSION}/site-packages/alchemysession/core_mysql.py
+lib/python${MODPY_VERSION}/site-packages/alchemysession/core_postgres.py
+lib/python${MODPY_VERSION}/site-packages/alchemysession/core_sqlite.py
+lib/python${MODPY_VERSION}/site-packages/alchemysession/orm.py
+lib/python${MODPY_VERSION}/site-packages/alchemysession/sqlalchemy.py
+lib/python${MODPY_VERSION}/site-packages/telethon_session_sqlalchemy-${MODPY_EGG_VERSION}-py${MODPY_VERSION}.egg-info/
+lib/python${MODPY_VERSION}/site-packages/telethon_session_sqlalchemy-${MODPY_EGG_VERSION}-py${MODPY_VERSION}.egg-info/PKG-INFO
+lib/python${MODPY_VERSION}/site-packages/telethon_session_sqlalchemy-${MODPY_EGG_VERSION}-py${MODPY_VERSION}.egg-info/SOURCES.txt
+lib/python${MODPY_VERSION}/site-packages/telethon_session_sqlalchemy-${MODPY_EGG_VERSION}-py${MODPY_VERSION}.egg-info/dependency_links.txt
+lib/python${MODPY_VERSION}/site-packages/telethon_session_sqlalchemy-${MODPY_EGG_VERSION}-py${MODPY_VERSION}.egg-info/requires.txt
+lib/python${MODPY_VERSION}/site-packages/telethon_session_sqlalchemy-${MODPY_EGG_VERSION}-py${MODPY_VERSION}.egg-info/top_level.txt
